@@ -17,36 +17,36 @@ Certificado en **Análisis Forense Basado en Técnicas Analíticas** por la FGUM
 ## 🎓 Formación Académica
 
 - 🏛️ **Abogacía** — Universidad Siglo 21, Córdoba, Argentina *(en curso)*
-- - 🌍 **Formación Complementaria** — Universidad de Málaga (UMA)
-  -   - Derecho Internacional Privado
-      -   - Planificación Fiscal Internacional
-          -   - Comercio Electrónico
-              -   - Delitos Socioeconómicos
-                  - - 📜 **Certificación en Análisis Forense** — FGUMA (Técnicas Analíticas)
-                   
-                    - ---
+- 🌍 **Formación Complementaria** — Universidad de Málaga (UMA)
+  - Derecho Internacional Privado
+  - Planificación Fiscal Internacional
+  - Comercio Electrónico
+  - Delitos Socioeconómicos
+- 📜 **Certificación en Análisis Forense** — FGUMA (Técnicas Analíticas)
 
-                    ## ⚖️ Áreas de Especialización
+---
 
-                    - 🔍 **Compliance & Derecho Penal Económico** — Prevención de delitos corporativos y cumplimiento normativo
-                    - - 💰 **Planificación Fiscal** — Estructuración fiscal nacional e internacional
-                      - - 🧪 **Análisis Forense** — Técnicas analíticas aplicadas al ámbito jurídico
-                        - - 🌐 **Derecho Internacional Privado** — Conflictos de jurisdicción y normas de derecho aplicable
-                          - - 💻 **Comercio Electrónico & Delitos Socioeconómicos** — Marco legal del entorno digital
-                           
-                            - ---
+## ⚖️ Áreas de Especialización
 
-                            ## 🛠️ Herramientas & Tecnologías
+- 🔍 **Compliance & Derecho Penal Económico** — Prevención de delitos corporativos y cumplimiento normativo
+- 💰 **Planificación Fiscal** — Estructuración fiscal nacional e internacional
+- 🧪 **Análisis Forense** — Técnicas analíticas aplicadas al ámbito jurídico
+- 🌐 **Derecho Internacional Privado** — Conflictos de jurisdicción y normas de derecho aplicable
+- 💻 **Comercio Electrónico & Delitos Socioeconómicos** — Marco legal del entorno digital
 
-                            ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-                            ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-                            ---
+## 🛠️ Herramientas & Tecnologías
 
-                            ## 📫 Contacto
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-                            [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoaxpedrocca/)
+---
 
-                            ---
+## 📫 Contacto
 
-                            *"El derecho no es solo norma — es la arquitectura que ordena la convivencia."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoaxpedrocca/)
+
+---
+
+*"El derecho no es solo norma — es la arquitectura que ordena la convivencia."*
