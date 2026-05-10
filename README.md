@@ -1,4 +1,4 @@
-# Gustavo Axel Pedrocca ⚖️
+# Axel Pedrocca ⚖️
 
 **Estudiante avanzado de Abogacía | Compliance & Derecho Penal Económico | Planificación Fiscal | Análisis Forense**
 
